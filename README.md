@@ -32,3 +32,14 @@ Treating the internal status on somewhat larger separated one and to make the hy
 So this is our end, and open for implementation.
 Also, I'm doubting our companion computer structure's consistency, this is also opposite site open for implementation.
 
+# Relation between our p-... and deep learning predictors
+From our view of the stream prediction, deep learning predictors are similar to p3 but is focusing copying complex enough structure with continuous enough functions with multi layered PDE they represents one PDE.
+
+However, p3 with maximum complexity with simple enough structure could rarely but some effect on fights with them.
+This is because v2v tanglement on all of the variables causes 3 variable structures, and they have an upper bound on function numbers.
+This shows upper bound of configurable parameters if we only separate in/out/status.
+
+However, even in such case, deep learning can learn such structures, so they only have slight meaning.
+
+Also, it is almost equivalent such learning to gather variables with compression, so p3 is usefull only the case we need the descriptionability on the model.
+
