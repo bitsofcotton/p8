@@ -43,3 +43,10 @@ However, even in such case, deep learning can learn such structures, so they onl
 
 Also, it is almost equivalent such learning to gather variables with compression, so p3 is usefull only the case we need the descriptionability on the model.
 
+# Tips on entropy between the function need and the data stream have
+p8 uses the compression/decompression method to exclude complexity into last observation insists as a intent.
+So to avoid intension based slip, we should use the parameters pull back from the data stream they causes entropy the function exports from same input.
+So this is done by recursion of the p1 part as a coefficient of the each, this describes the 4 dimension slices from the data stream per each, they causes increase of the entropy the function have causes last observation don't need to do much thing and don't effect to the prediction itself, since we compress/decompress with observation theirselves, with fixed vector on tan \<a,x\> instead of the variable parameter configured vectors.
+
+So the matter is, how many layers we need to describe with p8 method to predict original stream better well, however, this might be depend on the entropy the function have, in another words, the ratio with the function layer number vs. the viewpoint the original data stream have. If #f countup glitch is effective to the viewpoint number the original data stream have, the layer number itself also have the upper bound for any of the data stream, however, data stream can have any stream when we're stacking copying layer. One possibility is there to have such stack causes equivalent to another low number of the stack. We don't analyse this now.
+
