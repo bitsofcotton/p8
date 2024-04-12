@@ -50,3 +50,10 @@ So this is done by recursion of the p1 part as a coefficient of the each, this d
 
 So the matter is, how many layers we need to describe with p8 method to predict original stream better well, however, this might be depend on the entropy the function have, in another words, the ratio with the function layer number vs. the viewpoint the original data stream have. If #f countup glitch is effective to the viewpoint number the original data stream have, the layer number itself also have the upper bound for any of the data stream, however, data stream can have any stream when we're stacking copying layer. One possibility is there to have such stack causes equivalent to another low number of the stack. We don't analyse this now.
 
+# Tips on better treating output size concern with function entropy
+If we treat original input/output as shrinking/enlarging them by a factor matrix based method and correct matrix chain, they causes observation/(switch?) operations.
+However, if the pure function treats input data stream as single layerd on some of the block operations after optimizing function, this means the function doesn't attaches special meanings on the data, treat each data as equal on processing in each multiple stacked layer, the function entropy has upper bound. This causes output stream complexity cannot get better entropy from input stream.
+
+So to have output stream much of the entropy they've caused by many of the viewpoint assisted by somme of the internal status the function makes, the (pure) function need to treat some part of the data heavy weight, some another part of the data light weight, on computation complexity nor algorithm loop number.
+One of the clue we have is from bitsofcotton/randtools:tips AG, so some of the topological index number can have some another complexity results (does not carefully tested).
+
