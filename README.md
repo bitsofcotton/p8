@@ -59,3 +59,12 @@ However, if the pure function treats input data stream as single layerd on some 
 So to have output stream much of the entropy they've caused by many of the viewpoint assisted by somme of the internal status the function makes, the (pure) function need to treat some part of the data heavy weight, some another part of the data light weight, on computation complexity nor algorithm loop number.
 One of the clue we have is from bitsofcotton/randtools:tips AG, so some of the topological index number can have some another complexity results (does not carefully tested).
 
+# Tips on compatibility to p0, p1, p2.
+Taking p1/pp3.cc thirds to original stream causes (aleph_1)^(aleph_1) combination into aleph_0 combination also the result can be cutted {RNG, self similarity, combination} causes {continuity} also second or third order observation needs to in some of the continuity.
+
+So after then, p0/p0.cc causes some of the prediction they can be generic one.
+
+The p2/p2prng.cc causes better compatible with this hypothesis with pp3n thirds.
+However, only one column another words pp3 isn't with smaller length.
+This might because of the shortage of input internal bit estimation, so they can expose some initial internal bits to the predictors.
+
