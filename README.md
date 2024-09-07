@@ -64,6 +64,8 @@ Taking p1/pp3.cc quads to original stream causes (aleph_1)^(aleph_1) combination
 
 So after doing pp3 thirds, p0/p0.cc causes some of the prediction they can be generic one.
 
+Also, if we fight with the functions only up to aleph_0 (discrete points with no upper cardinal), doing pp3 seconds also causes (aleph_0)^(aleph_0) vanish into null set also {RNG, combination} into {const.} however either some signs changes in practical with lack of the internal states we can feed into predictor.
+
 The p2/p2prng.cc causes better compatible with this hypothesis with pp3n thirds.
 However, only one column another words single pp3 isn't with smaller length.
 This might because of the shortage of input internal bit estimation, so they can expose some initial internal bits to the predictors.
