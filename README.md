@@ -60,11 +60,13 @@ So to have output stream much of the entropy they've caused by many of the viewp
 One of the clue we have is from bitsofcotton/randtools:tips AG, so some of the topological index number can have some another complexity results (does not carefully tested).
 
 # Tips on compatibility to p0, p1, p2.
-Taking p1/pp3.cc quads to original stream causes (aleph_1)^(aleph_1) combination into null set also the result can be cutted {RNG, continuity (self similarity), combination} causes {const.} also second or quad order observation needs to in some of the continuity. A continuity and self similarity is similar in aleph_1 but is different in aleph_0. This is valid if the base dimension of continuity is 3 and it's up to aleph_2 each of them can be up to omega. Since we cannot estimate aleph_3 nor (aleph_1)^(aleph_1) their selves nor, aleph_k counting can have tanglement greater than {0,1,2}, so RNG also cutted by our perspective but not in real stream might be appeared real self similarity.
+Taking p1/pp3.cc quads to original stream causes (aleph_1)^(aleph_1) combination into null set also the result can be cutted {RNG, continuity (self similarity), combination} causes {const.} also second or quad order observation needs to in some of the continuity. A continuity and self similarity is similar in aleph_1 but is different in aleph_0. This is valid if the base dimension of continuity is 3 and it's up to aleph_2 each of them can be up to omega. Since we cannot estimate aleph_3 nor (aleph_1)^(aleph_1) their selves nor, aleph_k counting can have tanglement greater than {0,1,2}, so RNG also cutted by our perspective but not in real stream.
 
 So after doing pp3 thirds, p0/p0.cc causes some of the prediction they can be generic one.
 
 The p2/p2prng.cc causes better compatible with this hypothesis with pp3n thirds.
 However, only one column another words single pp3 isn't with smaller length.
 This might because of the shortage of input internal bit estimation, so they can expose some initial internal bits to the predictors.
+
+The lieonn.hh:predv uses single PP3 with self similarity hack on finite points, so if input finite points finiteness causes single prediction valid, since we return its continuity condition, the result shall valid on the condition we suppose. (with many much input length with the bit surface having good enough entropy for prediction condition.)
 
