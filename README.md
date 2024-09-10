@@ -66,3 +66,5 @@ Doing pp3 quads causes vanish tan\<a,x\> form but some of the noise remains, so 
 
 If these method fails, they might because of the shortage of input internal bit estimation, so enlarging input number can expose some initial internal bits to the predictors.
 
+However, on our test with some of the soft PRNGs, p0 \[012\] after pp3n (this is raw pp3, not quint recursive) causes ok except for many of the gulfs in inner product stream meaning. This occasion might means the structure of input stream is something continuous in pp3 meaning without unobserved dimension of internal states / algorithm appearences.
+
