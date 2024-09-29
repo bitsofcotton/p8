@@ -46,25 +46,16 @@ Also, it is almost equivalent such learning to gather variables with compression
 # Tips on entropy between the function need and the data stream have
 p8 uses the compression/decompression method to exclude complexity into last observation insists as a intent.
 So to avoid intension based slip, we should use the parameters pull back from the data stream they causes entropy the function exports from same input.
-So this is done by recursion of the p1 part as a coefficient of the each, this describes the 4 dimension slices from the data stream per each, they causes increase of the entropy the function have causes last observation don't need to do much thing and don't effect to the prediction itself, since we compress/decompress with observation theirselves, with fixed vector on tan \<a,x\> instead of the variable parameter configured vectors.
-
-So the matter is, how many layers we need to describe with p8 method to predict original stream better well, however, this might be depend on the entropy the function have, in another words, the ratio with the function layer number vs. the viewpoint the original data stream have. If #f countup glitch is effective to the viewpoint number the original data stream have, the layer number itself also have the upper bound for any of the data stream, however, data stream can have any stream when we're stacking copying layer. One possibility is there to have such stack causes equivalent to another low number of the stack. We don't analyse this now.
-
-In addition to this, bitsofcotton/NAND:Readme.md:General Tips on any functions: describes P01 in p1 class is enough because first order optimization returns 3x4 of the parameters, either, P1 on P1 also better with because they returns 4x4 parameters at leafs. These makes sense if the optimization (taking invariant) can pull back full set of the input stream information without any of the loss (as a observation on the stream and us). However, even in this case, the result can have to be broken if some of the uncontinuous part appears on next step point. So p8 have intention to exclude such uncontinuous part into prime factor's Factor matrix observation with much sequences on input. However, the stream can have the next step flipped stream from sone of the predictor in any which way to exclude such uncontinuous part.
 
 # Tips on better treating output size concern with function entropy
 If we treat original input/output as shrinking/enlarging them by a factor matrix based method and correct matrix chain, they causes observation/(switch?) operations.
 However, if the pure function treats input data stream as single layerd on some of the block operations after optimizing function, this means the function doesn't attaches special meanings on the data, treat each data as equal on processing in each multiple stacked layer, the function entropy has upper bound. This causes output stream complexity cannot get better entropy from input stream.
 
-So to have output stream much of the entropy they've caused by many of the viewpoint assisted by somme of the internal status the function makes, the (pure) function need to treat some part of the data heavy weight, some another part of the data light weight, on computation complexity nor algorithm loop number.
+So to have output stream much of the entropy they've caused by many of the viewpoint assisted by some of the internal status the function makes, the (pure) function need to treat some part of the data heavy weight, some another part of the data light weight, on computation complexity nor algorithm loop number.
 One of the clue we have is from bitsofcotton/randtools:tips AG, so some of the topological index number can have some another complexity results (does not carefully tested).
 
 # Tips on compatibility to p0, p1, p2.
-Taking p1/pp3.cc quads to original stream causes (aleph_1)^(aleph_1) combination into null set also the result can be cutted {RNG, continuity (self similarity), combination} causes null set also second or quad order observation needs to in some of the null output. This also causes tan\<a,x\>, a in R^4 prediction causes 0.
+Taking p1/pp3.cc quads to original stream causes (aleph_1)^(aleph_1) combination into null set also the result can be cutted {RNG, continuity (self similarity), combination} causes null set also second or quad order observation needs to in some of the null output. This also causes tan\<a,x\>, a in R^4 prediction causes 0. Around this, please refer bitsofcotton/ddpmopt, p1, p2.
 
-Doing pp3 quads causes vanish tan\<a,x\> form but some of the noise remains, so doing quint causes noise prediction on the 4 dimension prediction meaning we're doing this in predvq, so we bet return to average nor p0 continuity after doing them but the pqredg image prediction doesn't need to bet them because of the meaning (however we may need to negate them.).
-
-If these method fails, they might because of the shortage of input internal bit estimation, so enlarging input number can expose some initial internal bits to the predictors.
-
-However, on our test with some of the soft PRNGs, p0 \[012\] after pp3n (this is raw pp3, not quint recursive) causes ok except for many of the gulfs in inner product stream meaning. This occasion might means the structure of input stream is something continuous in pp3 meaning without unobserved dimension of internal states / algorithm appearences.
+Either, p8 is compatible to predv1 applied (de)\?compress before and after to feed the predictor with much of the depth PPn.
 
