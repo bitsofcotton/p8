@@ -2,5 +2,5 @@
 The combination of the predictions.
 
 # Description
-Please refer lieonn.hh tail (13) case.
+Please refer lieonn.hh comment after prediction functions also masp, masp2catg.
 
